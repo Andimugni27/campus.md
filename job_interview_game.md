@@ -1,6 +1,6 @@
 ## 1.1 Latar Belakang
 
-bla bla bla
+koko
 
 ## 1.2. Deksripsi Teknologi Informasi
 
