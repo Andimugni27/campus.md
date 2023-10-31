@@ -1,10 +1,8 @@
 ## 1.1 Latar Belakang
-
-koko
+    Saya kuliah di Universitas Islam Negeri Sunan Gunung Djati Bandung. Universitas ini merupakan Perguruan Tinggi Keagamaan Islam Negeri (PTKIN) terbaik di Indonesia. Maka tak aneh, Universitas ini sangat berkaitan dengan nilai-nilai agama Islam. 
 
 ## 1.2. Deksripsi Teknologi Informasi
 
-bla bla bla
 
 ## 1.3. Branding
 
