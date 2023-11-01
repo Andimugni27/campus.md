@@ -23,7 +23,7 @@ Mudah <br>
 Menggunakan bahasa yang tidak terlalu formal
 Desain yang tidak terlalu kolot
 
-Warna: hijau,putih
+Warna: hijau,putih<br>
 Inspirasi desain:
 <br>
 ![b52572c888d44480c458289450329175](https://github.com/Andimugni27/job_interview.md/assets/144541746/dc843b92-21b0-4cb7-8e5f-b2e535766137)
