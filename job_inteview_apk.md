@@ -58,7 +58,7 @@ Inspirasi desain:
 ## 5. Teknologi, Library, dan Framework
  1. MySQK<br>
  MySQL is a popular open-source relational database management system (RDBMS) that uses Structured Query Language (SQL) for managing and manipulating the data in the database. It's widely used for web development and other applications where a reliable and efficient database system is needed.<br>
- 2. Visual Studio Code (VSC)
+ 2. Visual Studio Code (VSC)<br>
     Visual Studio Code (VSCode) is a free and open-source source-code editor developed by Microsoft for Windows, macOS, and Linux. It provides a lightweight yet powerful environment for developers to write, debug, and deploy code across various programming languages.
     
 
