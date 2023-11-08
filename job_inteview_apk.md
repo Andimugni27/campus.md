@@ -48,14 +48,7 @@ Inspirasi desain:
  Universitas | mencerminkan kepribadian islami dalam lingkungan | mencetak lingkugan yang diridhoi oleh Tuhan | ⭐⭐⭐
 
 ## 3. Struktur Data
-
-Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
-
-```mermaid
-erDiagram
-    RUJAK ||--o{ SAYUR : tersusun
-    PEMBELI ||--|{ RUJAK : beli
-```
+![mermaid-diagram-2023-11-07-230803](https://github.com/Andimugni27/job_interview.md/assets/144541746/2161b054-d44b-4dbd-a082-738d3ecf912b)
 
 ## 4. Arsitektur Sistem
 
