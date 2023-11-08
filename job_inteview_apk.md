@@ -52,7 +52,7 @@ Inspirasi desain:
 ![mermaid-diagram-2023-11-07-230803](https://github.com/Andimugni27/job_interview.md/assets/144541746/2161b054-d44b-4dbd-a082-738d3ecf912b)
 
 ## 4. Arsitektur Sistem
-![data](https://github.com/Andimugni27/job_interview.md/assets/144541746/e2209e38-d264-4a0a-8624-db31fd38ea4e)
+![data2](https://github.com/Andimugni27/job_interview.md/assets/144541746/5a9953d8-00d0-4365-96a1-aec08aac14c6)
 
 
 ## 5. Teknologi, Library, dan Framework
