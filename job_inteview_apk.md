@@ -46,6 +46,7 @@ Inspirasi desain:
  Pembangun | menambah ilmu dalam hal duniawi dan akhirat | saya bisa menjadi seorang muslim yang lebih baik | ⭐⭐⭐⭐⭐
  Universitas | mencetak mahasiswa yang ideal (sukses dunia dan selamat akhirat) | saya bisa mengharumkan nama baik | ⭐⭐⭐
  Universitas | mencerminkan kepribadian islami dalam lingkungan | mencetak lingkugan yang diridhoi oleh Tuhan | ⭐⭐⭐
+ Negara | menjadikan nilai kebaikan menjadi standar tren di kalangan manusia | bisa menggantikan tren yang membawa keburukan | ⭐⭐⭐⭐⭐
 
 ## 3. Struktur Data
 ![mermaid-diagram-2023-11-07-230803](https://github.com/Andimugni27/job_interview.md/assets/144541746/2161b054-d44b-4dbd-a082-738d3ecf912b)
