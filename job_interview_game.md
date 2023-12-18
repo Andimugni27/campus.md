@@ -1,6 +1,9 @@
 ## 1.1 Latar Belakang
 
-koko
+Manusia sering malakukan kejahatan di muka bumi ini. Kejahatan yang diperbuat oleh manusia sangat merugikan bagi manusia lainnya ataupun bagi lingkungan, seperti korupsi, anarkis, narkoba, judi, pembunuhan, dan banyak lagi. 
+Di agama yang saya anut, di dunia ini terdapat sosok pembisik kejahatan, yaitu iblis. Iblis tidak nampak oleh manusia tetapi bisikan iblis bisa dirasakan oleh manusia. Iblis membisik kepada manusia untu berbuat kejahatan.
+Oleh sebab itu, saya ingin membuat game tentang seorang manusia bernama Qatil. Qatil adalah seorang ahli suci dari sebuah negara. Ia akan bertarung di pulau iblis untuk menghentikan iblis untuk membisikkan kejahatan kepada manusia.
+Wilayah pulau iblis akan dibagi menjadi beberapa wilayah. Setiap wilayah memiliki kejahatan khususnya masing-masing. Qatil akan melawan setiap wilayah itu dan mengalahkan raja iblis.
 
 ## 1.2. Deksripsi Teknologi Informasi
 
