@@ -10,9 +10,9 @@ Teknologi informasi yang akan saya buat yaitu dalam bentuk aplikasi.
 
 ## 1.3. Branding
 
-Tagline: Siapa saja bisa menjadi seorang Hafidz Al-Qur'an
-Campaign: Menjadikan niat menjadi tekad di lingkungan kampus
-Target user:
+Tagline: Siapa saja bisa menjadi seorang Hafidz Al-Qur'an<br>
+Campaign: Menjadikan niat menjadi tekad di lingkungan kampus<br>
+Target user:<br>
 Mahasiswa UIN Bandung yang berusaha menjadi penghafal Al-Qur'an
 Mahasiswa UIN Bandung yang berusaha menjadi penghafal Al-Qur'an, tetapi memiliki jadwal yang sibuk
 Mahasiswa UIN Bandung yang ingin memperbaiki pembacaan Al-Quran 
