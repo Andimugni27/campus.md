@@ -7,17 +7,29 @@ Wilayah pulau iblis akan dibagi menjadi beberapa wilayah. Setiap wilayah memilik
 
 ## 1.2. Deksripsi Teknologi Informasi
 
-bla bla bla
+Saya akan membuat game ini dalam bentuk game desktop.
 
 ## 1.3. Branding
 
-bla bla bla
+Target user: Remaja, Orang Dewasa, dan khususnya Mahasiswa.<br>
+User experience theme: Horor<br>
+Warna: Tergantung dari wilayah iblis<br>
+Inspirasi desain:<br>
+![FU-cObjUEAAEt32](https://github.com/Andimugni27/campus.md/assets/144541746/a85c0558-cd33-42f0-b966-8c2f8f428593)
+![game-p](https://github.com/Andimugni27/campus.md/assets/144541746/3dff7d7e-4922-45aa-8a66-c1bda8c1ac01)
+![pulau pocong](https://github.com/Andimugni27/campus.md/assets/144541746/8e724fc0-adc5-4ec6-8b81-7cb1f0a4b892)
+![backround iblis](https://github.com/Andimugni27/campus.md/assets/144541746/0564cf44-e6d0-40d3-879c-c7b0539e6884)
+![Screenshot (8)](https://github.com/Andimugni27/campus.md/assets/144541746/07545c7a-ce0e-47f9-b118-41d4f0d60961)
 
 ## 2. User Story
 
-bla | bla | bla | bla
+Sebagai | Saya ingin bisa | Sehingga | Prioritas
 ---|---|---|---
-bla | bla | bla | ⭐⭐⭐⭐⭐
+Developer | Membuat game yang memberikan efek positif | dapat mendapatkan amal jariah  | ⭐⭐⭐⭐⭐
+Developer | Menghibur Pemain | developer ikut bahagia  | ⭐⭐⭐⭐
+Pemain | mendapatkan hiburan | pemain tidak merasa bosan  | ⭐⭐⭐⭐⭐
+Pemain | memainkan game yang tidak mengandung ajakan untuk berbuat buruk | Saya tidak terpengaruh oleh pikiran negatif  | ⭐⭐⭐⭐
+Developer | Menghibur Pemain | developer ikut bahagia  | ⭐⭐⭐⭐
 
 ## 3. Struktur Data
 
