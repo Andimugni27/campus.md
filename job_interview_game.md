@@ -32,6 +32,8 @@ Pemain | memainkan game yang tidak mengandung ajakan untuk berbuat buruk | Saya 
 Developer | Menghibur Pemain | developer ikut bahagia  | ⭐⭐⭐⭐
 
 ## 3. Struktur Data
+![structur data](https://github.com/Andimugni27/campus.md/assets/144541746/6d0671f6-303e-49a1-84ce-8725b07a7d70)
+
 
 Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
 
