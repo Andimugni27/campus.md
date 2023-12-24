@@ -34,7 +34,7 @@ Inspirasi desain:
 
 ## 2. User Story
 
- Sebagai | Saya ingin bisa | Sehingga | bla
+ Sebagai | Saya ingin bisa | Sehingga | Prioritas
 ---|---|---|---
  Pengguna | Mengahafal Al-Qur'an | bisa menjadi penghafal Al-Qur'an | ⭐⭐⭐⭐⭐
  Pengguna | Menghafal Al-Qur'an dengan waktu dan tempat fleksibel | saya bisa menjadi penghafal Al-Qur'an tanpa menggangu aktivitas saya sebgai mahasiswa | ⭐⭐⭐⭐⭐
