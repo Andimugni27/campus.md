@@ -27,6 +27,7 @@ Developer | Membuat game yang memberikan efek positif | dapat mendapatkan amal j
 Developer | Menghibur Pemain | developer ikut bahagia  | ⭐⭐⭐⭐
 Pemain | mendapatkan hiburan | pemain tidak merasa bosan  | ⭐⭐⭐⭐⭐
 Pemain | memainkan game yang tidak mengandung ajakan untuk berbuat buruk | Saya tidak terpengaruh oleh pikiran negatif  | ⭐⭐⭐⭐
+Pemain | Memainkan game dengan tombol mudah | Memainkan gamnya lebih mudah  | ⭐⭐⭐⭐
 
 
 ## 3. Desain user interface
