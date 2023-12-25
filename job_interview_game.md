@@ -32,10 +32,14 @@ Pemain | memainkan game yang tidak mengandung ajakan untuk berbuat buruk | Saya 
 
 Inspirasi desain:<br>
 ![FU-cObjUEAAEt32](https://github.com/Andimugni27/campus.md/assets/144541746/a85c0558-cd33-42f0-b966-8c2f8f428593)
+![Screenshot (9)](https://github.com/Andimugni27/campus.md/assets/144541746/08065531-ca6a-48fc-a9b2-42e862bb4998)
 ![game-p](https://github.com/Andimugni27/campus.md/assets/144541746/3dff7d7e-4922-45aa-8a66-c1bda8c1ac01)
 ![pulau pocong](https://github.com/Andimugni27/campus.md/assets/144541746/8e724fc0-adc5-4ec6-8b81-7cb1f0a4b892)
 ![backround iblis](https://github.com/Andimugni27/campus.md/assets/144541746/0564cf44-e6d0-40d3-879c-c7b0539e6884)
 ![Screenshot (8)](https://github.com/Andimugni27/campus.md/assets/144541746/07545c7a-ce0e-47f9-b118-41d4f0d60961)
+![Screenshot (9)](https://github.com/Andimugni27/campus.md/assets/144541746/08065531-ca6a-48fc-a9b2-42e862bb4998)
+Game desain: 
+![WhatsApp Image 2023-12-25 at 10 57 30](https://github.com/Andimugni27/campus.md/assets/144541746/a97552ec-731d-4be4-b7e5-6852dbd7ffee)
 
 
 ## 4. Arsitektur Sistem
