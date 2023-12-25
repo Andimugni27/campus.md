@@ -17,6 +17,7 @@ Setelah semua jenis-jenis pemimpin iblis dan raja ibilis dikalah kan, kejahatan 
 Nama game:<br>
 Target pengguna: Remaja, Orang Dewasa, dan khususnya Mahasiswa.<br>
 Genre: Horor<br>
+Jenis game: platformer game, desktop game
 
 ## 2. User Story
 
