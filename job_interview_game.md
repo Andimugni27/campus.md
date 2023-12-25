@@ -5,21 +5,18 @@ Di agama yang saya anut, di dunia ini terdapat sosok pembisik kejahatan, yaitu i
 Oleh sebab itu, saya ingin membuat game tentang seorang manusia bernama Qatil. Qatil adalah seorang ahli suci dari sebuah negara. Ia akan bertarung di pulau iblis untuk menghentikan iblis untuk membisikkan kejahatan kepada manusia.
 Wilayah pulau iblis akan dibagi menjadi beberapa wilayah. Setiap wilayah memiliki kejahatan khususnya masing-masing. Qatil akan melawan setiap wilayah itu dan mengalahkan raja iblis.
 
-## 1.2. Deksripsi Teknologi Informasi
+## 1.2. Deskripsi dan alur cerita dari game
 
-Saya akan membuat game ini dalam bentuk game desktop.
+Saya ingin membuat game tentang seorang manusia bernama Qatil. Qatil adalah seorang ahli suci dari sebuah negara. Ia akan bertarung di pulau iblis untuk menghentikan iblis untuk membisikkan kejahatan kepada manusia.
+Wilayah pulau iblis akan dibagi menjadi beberapa wilayah. Setiap wilayah memiliki kejahatan khususnya masing-masing. Qatil akan melawan setiap wilayah itu dan mengalahkan raja iblis.Jenis raja iblis yaitu jenis kesyirikan.
+Qatil akan bertarung dengan raja iblis dengan kekuatan dan skill-skill baru yang didapatkan dari mengalahkan jenis pemimpin iblis sebelumnya. Qatil dengan menggunakan pedangnya menghabisi pulau iblis dengan sangat hebat.
+Setelah semua jenis-jenis pemimpin iblis dan raja ibilis dikalah kan, kejahatan di seluruh dunia pelan-pelan menurun. Qatil kembali ke kampung halamannya dengan selamat. Tapi, di pulau iblis itu, raja iblis masih hidup dan melarikan diri.
 
 ## 1.3. Branding
 
-Target user: Remaja, Orang Dewasa, dan khususnya Mahasiswa.<br>
-User experience theme: Horor<br>
-Warna: Tergantung dari wilayah iblis<br>
-Inspirasi desain:<br>
-![FU-cObjUEAAEt32](https://github.com/Andimugni27/campus.md/assets/144541746/a85c0558-cd33-42f0-b966-8c2f8f428593)
-![game-p](https://github.com/Andimugni27/campus.md/assets/144541746/3dff7d7e-4922-45aa-8a66-c1bda8c1ac01)
-![pulau pocong](https://github.com/Andimugni27/campus.md/assets/144541746/8e724fc0-adc5-4ec6-8b81-7cb1f0a4b892)
-![backround iblis](https://github.com/Andimugni27/campus.md/assets/144541746/0564cf44-e6d0-40d3-879c-c7b0539e6884)
-![Screenshot (8)](https://github.com/Andimugni27/campus.md/assets/144541746/07545c7a-ce0e-47f9-b118-41d4f0d60961)
+Nama game:<br>
+Target pengguna: Remaja, Orang Dewasa, dan khususnya Mahasiswa.<br>
+Genre: Horor<br>
 
 ## 2. User Story
 
@@ -31,47 +28,27 @@ Pemain | mendapatkan hiburan | pemain tidak merasa bosan  | ⭐⭐⭐⭐⭐
 Pemain | memainkan game yang tidak mengandung ajakan untuk berbuat buruk | Saya tidak terpengaruh oleh pikiran negatif  | ⭐⭐⭐⭐
 Developer | Menghibur Pemain | developer ikut bahagia  | ⭐⭐⭐⭐
 
-## 3. Struktur Data
-![structur data](https://github.com/Andimugni27/campus.md/assets/144541746/6d0671f6-303e-49a1-84ce-8725b07a7d70)
+## 3. Desain user interface
 
+Inspirasi desain:<br>
+![FU-cObjUEAAEt32](https://github.com/Andimugni27/campus.md/assets/144541746/a85c0558-cd33-42f0-b966-8c2f8f428593)
+![game-p](https://github.com/Andimugni27/campus.md/assets/144541746/3dff7d7e-4922-45aa-8a66-c1bda8c1ac01)
+![pulau pocong](https://github.com/Andimugni27/campus.md/assets/144541746/8e724fc0-adc5-4ec6-8b81-7cb1f0a4b892)
+![backround iblis](https://github.com/Andimugni27/campus.md/assets/144541746/0564cf44-e6d0-40d3-879c-c7b0539e6884)
+![Screenshot (8)](https://github.com/Andimugni27/campus.md/assets/144541746/07545c7a-ce0e-47f9-b118-41d4f0d60961)
 
-Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
-
-```mermaid
-erDiagram
-    RUJAK ||--o{ SAYUR : tersusun
-    PEMBELI ||--|{ RUJAK : beli
-```
 
 ## 4. Arsitektur Sistem
 
-Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/syntax/flowchart.html](https://mermaid.js.org/syntax/flowchart.html)
+![structur data](https://github.com/Andimugni27/campus.md/assets/144541746/6d0671f6-303e-49a1-84ce-8725b07a7d70)
 
-## 5. Teknologi, Library, dan Framework
+## 5. Demo game
 
 bla bla bla
 
-## 6. Desain User Experience dan User Interface
+## 6. Code game
 
-Bisa load image 
-![Contoh](https://fastly.picsum.photos/id/318/536/354.jpg?hmac=Ixy-wle80nudIR_cmnF1iY2y6rMUH7_9sk-BP1fTpM8)
 
-## 7. Demonstrasi Video
+## 7. prinsip-prinsip dasar pemrograman
 
-Link youtube nya
 
-## 8. Bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu ?
-
-Link youtube nya di detik jawaban ini
-
-## 9. Bagaimana algoritma, struktur data, dan bahasa pemrograman berperan dalam produk teknologi informasimu ?
-
-Link youtube nya di detik jawaban ini
-
-## 10. Bagaimana metode pengembangan perangkat lunak / Software Development Life Cycle berperan dalam produk teknologi informasimu ?
-
-Link youtube nya di detik jawaban ini
-
-## 11. Bagaimana database / sistem basis data berperan dalam produk teknologi informasimu ?
-
-Link youtube nya di detik jawaban ini
