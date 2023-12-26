@@ -17,8 +17,7 @@
 ## Mencoba Console Sistem Operasi
 
 ### Windows CMD [v] ⭐⭐⭐⭐
-
-Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
+![Screenshot (10)](https://github.com/Andimugni27/campus.md/assets/144541746/3302328b-1266-49c7-8ded-e248c2e68fd3)
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
@@ -28,7 +27,8 @@ Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-v
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
-Referensi [1](https://scratch.mit.edu/)
+![scratch](https://github.com/Andimugni27/campus.md/assets/144541746/272e52b5-5fb4-4b02-9559-b7c43b813193)
+
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
