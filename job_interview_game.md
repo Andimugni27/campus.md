@@ -14,7 +14,7 @@ Setelah semua jenis-jenis pemimpin iblis dan raja ibilis dikalah kan, kejahatan 
 
 ## 1.3. Branding
 
-Nama game:<br>
+Nama game:arorArrogant Cloak<br>
 Target pengguna: Remaja, Orang Dewasa, dan khususnya Mahasiswa.<br>
 Genre: Horor<br>
 Jenis game: platformer game, desktop game
