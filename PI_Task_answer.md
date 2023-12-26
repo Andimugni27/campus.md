@@ -11,6 +11,8 @@
    Cloud computing merupakan sebuah sistem informasi yang memungkinkan kemudahan akses kepada komponen sumber daya seperti server, aplikasi, dan database melalui jaringan internet. Dengan menggunakan sistem ini, sumber daya akan disimpan dan dikelola di pusat data yang terhubung dengan internet.Contoh cloud computing adalah Amazon Web Services (AWS), Microsoft Azure Virtual Machines, dan Google Cloud Compute Engine.
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
+![gcolab](https://github.com/Andimugni27/campus.md/assets/144541746/ca9bf840-c0ce-4907-831e-2cafa3a43943)
+
 
 ## Mencoba Console Sistem Operasi
 
