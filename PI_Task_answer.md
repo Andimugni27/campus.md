@@ -31,6 +31,8 @@ Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-v
 
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
+![bubble sort](https://github.com/Andimugni27/campus.md/assets/144541746/774c12a7-b102-432a-8903-3c55521d71fb)
+
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
