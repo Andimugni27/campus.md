@@ -3,11 +3,11 @@
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
-1. Mobile Computing
+1. Mobile Computing<br>
    Mobile computing merupakan suatu desain dari transmisi data, suara, hingga informasi media lainnya yang saling terhubung dan saling berkomunikasi melalui suatu gelombang radio tanpa adanya media perambat fisik atau kabel. Oleh karena itu, dalam hal ini, mobile computing seringkali menggunakan akses Wifi dalam hal konektifitasnya dan adanya paket layanan yang dihubungkan langsung pada akses jaringan local (LAN) dengan skala yang lebih luas (internet). Device yang tercakup dalam mobile computing ialah seluruh jajaran perangkat elektronik, mulai dari laptop hingga smartphone yang dimiliki hampir seluruh manusia di muka bumi ini.
-2. Grid Computing
+2. Grid Computing<br>
    Komputasi grid adalah infrastruktur komputasi yang menggabungkan sumber daya komputer dan tersebar di lokasi geografis yang berbeda untuk mencapai tujuan bersama. Semua sumber daya yang tidak digunakan di beberapa komputer dikumpulkan bersama dan tersedia untuk satu tugas. Organisasi menggunakan komputasi grid untuk melakukan tugas-tugas besar atau memecahkan masalah kompleks yang sulit dilakukan pada satu komputer.
-3. Cloud Computing
+3. Cloud Computing<br>
    Cloud computing merupakan sebuah sistem informasi yang memungkinkan kemudahan akses kepada komponen sumber daya seperti server, aplikasi, dan database melalui jaringan internet. Dengan menggunakan sistem ini, sumber daya akan disimpan dan dikelola di pusat data yang terhubung dengan internet.Contoh cloud computing adalah Amazon Web Services (AWS), Microsoft Azure Virtual Machines, dan Google Cloud Compute Engine.
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
