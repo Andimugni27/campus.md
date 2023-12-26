@@ -1,6 +1,7 @@
 # Hello Informatics !
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
+[apa itu computational thinking?](https://www.youtube.com/watch?v=3q-6qZZl10M)
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 1. Mobile Computing<br>
