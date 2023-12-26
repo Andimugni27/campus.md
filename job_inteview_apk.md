@@ -10,6 +10,7 @@ Teknologi informasi yang akan saya buat yaitu dalam bentuk aplikasi.
 
 ## 1.3. Branding
 
+Nama : KIR-HUB (Kelompok Ikhtiar Hafidz UIN Bandung)<br>
 Tagline: Siapa saja bisa menjadi seorang Hafidz Al-Qur'an<br>
 Campaign: Menjadikan niat menjadi tekad di lingkungan kampus<br>
 Target user:<br>
