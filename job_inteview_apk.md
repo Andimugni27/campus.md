@@ -65,8 +65,9 @@ Inspirasi desain:
 
 ## 6. Desain User Experience dan User Interface
 
-Bisa load image 
-![Contoh](https://fastly.picsum.photos/id/318/536/354.jpg?hmac=Ixy-wle80nudIR_cmnF1iY2y6rMUH7_9sk-BP1fTpM8)
+![WhatsApp Image 2023-12-26 at 13 36 06](https://github.com/Andimugni27/campus.md/assets/144541746/55964153-d9b2-4378-a30c-06261691047c)
+
+
 
 ## 7. Demonstrasi Video
 
