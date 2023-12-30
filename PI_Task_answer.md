@@ -61,8 +61,8 @@ Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 [Bagaimana HTML dalam interaksi web browser dan web server bekerja??](https://youtu.be/vxIn8YGVYT4)
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
-
-Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
+![nslook](https://github.com/Andimugni27/campus.md/assets/144541746/abde5d23-4b41-4700-91d2-c7b5f29070fb)
+![who is](https://github.com/Andimugni27/campus.md/assets/144541746/0201ab6b-b4ad-41f2-9d69-c2851bc674cf)
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 
