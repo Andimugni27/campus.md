@@ -51,9 +51,6 @@ Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-v
 ![database2](https://github.com/Andimugni27/campus.md/assets/144541746/8741da0f-24bb-473c-83e0-d0dd8585c943)
 ![database](https://github.com/Andimugni27/campus.md/assets/144541746/e4a87c54-aa00-4764-965b-d047d840f5bc)
 
-Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
-Referensi tambahan [1](https://db-engines.com/en/ranking)
-
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 
 Referensi installer [Dbeaver](https://dbeaver.io/download/)
