@@ -21,6 +21,8 @@
 ![Screenshot (10)](https://github.com/Andimugni27/campus.md/assets/144541746/3302328b-1266-49c7-8ded-e248c2e68fd3)
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
+![linux colab](https://github.com/Andimugni27/campus.md/assets/144541746/529b85c4-94bb-42d5-be11-5c4ed24c54e7)
+
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 ![281226117-5a9953d8-00d0-4365-96a1-aec08aac14c6](https://github.com/Andimugni27/campus.md/assets/144541746/9096d8be-3f26-423d-9c03-42057a0be912)
