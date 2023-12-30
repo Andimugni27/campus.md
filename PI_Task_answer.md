@@ -40,6 +40,7 @@ Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-v
 
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
+![linux colab](https://github.com/Andimugni27/campus.md/assets/144541746/7550e965-e33a-4261-ba19-e4a42cbce982)
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 [Apa itu HackerRack??](https://www.youtube.com/watch?v=s-cKdSZktjw)
