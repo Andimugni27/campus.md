@@ -134,6 +134,7 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
+![WhatsApp Image 2023-12-31 at 15 08 17](https://github.com/Andimugni27/campus.md/assets/144541746/d4a94755-4047-49a9-9705-de6bf7db7cf1)
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 
