@@ -52,10 +52,7 @@ Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-v
 ![database](https://github.com/Andimugni27/campus.md/assets/144541746/e4a87c54-aa00-4764-965b-d047d840f5bc)
 
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
-
-Referensi installer [Dbeaver](https://dbeaver.io/download/)
-Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
-
+[Apa itu PostgreSQL dan cara pemakaiannya??](https://youtu.be/y-cUkyuKZiU)
 ## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 [Apa itu URL??](https://youtu.be/vxIn8YGVYT4)
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
