@@ -62,6 +62,7 @@ Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-v
 ![who is](https://github.com/Andimugni27/campus.md/assets/144541746/0201ab6b-b4ad-41f2-9d69-c2851bc674cf)
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
+![html](https://github.com/Andimugni27/campus.md/assets/144541746/0e9e0c0a-332e-4673-8e9b-e6cf3c7123f2)
 
 Referensi tutorial 
 - Isi konten halaman web : [HTML](https://www.w3schools.com/html/)
@@ -106,6 +107,8 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
+![error](https://github.com/Andimugni27/campus.md/assets/144541746/a1ed0b45-ee36-49e1-a4bb-5dff8be2aa0d)
+
 
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 
