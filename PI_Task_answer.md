@@ -62,12 +62,8 @@ Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-v
 ![who is](https://github.com/Andimugni27/campus.md/assets/144541746/0201ab6b-b4ad-41f2-9d69-c2851bc674cf)
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
-![html](https://github.com/Andimugni27/campus.md/assets/144541746/0e9e0c0a-332e-4673-8e9b-e6cf3c7123f2)
-
-Referensi tutorial 
-- Isi konten halaman web : [HTML](https://www.w3schools.com/html/)
-- Styling halaman web : [CSS](https://www.w3schools.com/css/)
-- Interaktivitas halaman web : [JavaScript](https://www.w3schools.com/js/)
+![htmlcssjs](https://github.com/Andimugni27/campus.md/assets/144541746/78980e34-3b59-401a-a5b7-1380b054b892)
+![hasilweb](https://github.com/Andimugni27/campus.md/assets/144541746/0991a1bc-ddbb-4510-9f63-8ae189113ca7)
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
