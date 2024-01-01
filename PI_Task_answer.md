@@ -133,7 +133,7 @@ https://drive.google.com/file/d/1cNAKkRs-ARCW5xvgwBY_AiBfznN7cOcF/view?usp=drive
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 https://drive.google.com/file/d/1KM8najs9yCRe94ijQaIn0TT_lDo2iaF-/view?usp=drive_link
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
-
+https://wordpress.com/post/andoy51.wordpress.com/103
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 ![WhatsApp Image 2023-12-31 at 15 59 00](https://github.com/Andimugni27/campus.md/assets/144541746/087139b3-80b1-4534-b0d1-346b62509c1f)
 ![WhatsApp Image 2023-12-31 at 15 59 12](https://github.com/Andimugni27/campus.md/assets/144541746/4d3524ae-ba98-491f-964c-2a6f09638394)
@@ -142,5 +142,5 @@ https://drive.google.com/file/d/1KM8najs9yCRe94ijQaIn0TT_lDo2iaF-/view?usp=drive
 [Ini link github saya](https://github.com/Andimugni27)
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
-
+[Saya mengikuti CS50 yang diadakan oleh Harvard University](https://youtu.be/xiyoyyFyWFg)
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
