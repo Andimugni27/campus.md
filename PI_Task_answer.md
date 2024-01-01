@@ -91,7 +91,7 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
 [Mencoba Edit Konten Multimedi](https://drive.google.com/file/d/1ASGKw3wyp35D5G73JR0I5ec3032SXRb-/view?usp=drive_link)
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
-
+[Pembuatan game menggunakan netlogo](https://drive.google.com/file/d/1oxFyUO8fyTDlqgPRZM-rZV5uqf-O2LvO/view?usp=drive_link)
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
