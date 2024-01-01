@@ -27,9 +27,6 @@
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 ![Diagram Tanpa Judul drawio](https://github.com/Andimugni27/campus.md/assets/144541746/412bb2b5-3f57-49b9-93c7-045ee50bd953)
 
-
-Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
-
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
 ![scratch](https://github.com/Andimugni27/campus.md/assets/144541746/272e52b5-5fb4-4b02-9559-b7c43b813193)
@@ -108,6 +105,7 @@ Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-v
 ![kaggle](https://github.com/Andimugni27/campus.md/assets/144541746/313d4d3c-75d3-46bb-bb69-33ef24628a56)
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
+![mqtt](https://github.com/Andimugni27/campus.md/assets/144541746/27aaa0b1-189e-49c6-9f78-eeda420cbf56)
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 - https://wordpress.com/post/andoy51.wordpress.com/82
@@ -118,7 +116,7 @@ Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-v
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 - https://wordpress.com/post/andoy51.wordpress.com/89
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
-
+https://drive.google.com/file/d/1YwKQuL5fhTcLhX5NwFveT9N1UCJ4Xx9E/view?usp=drive_link
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 - https://wordpress.com/post/andoy51.wordpress.com/95
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
@@ -129,9 +127,9 @@ Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-v
 ![WhatsApp Image 2023-12-31 at 15 08 17](https://github.com/Andimugni27/campus.md/assets/144541746/d4a94755-4047-49a9-9705-de6bf7db7cf1)
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
-
+https://drive.google.com/file/d/1cNAKkRs-ARCW5xvgwBY_AiBfznN7cOcF/view?usp=drive_link
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
-
+https://drive.google.com/file/d/1cNAKkRs-ARCW5xvgwBY_AiBfznN7cOcF/view?usp=drive_link
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
