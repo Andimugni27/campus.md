@@ -68,21 +68,18 @@ Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-v
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 [Optimalisasi SEO HTML](https://andoy51.wordpress.com/)
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
+- https://wordpress.com/post/andoy51.wordpress.com/37
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
-
-
+- https://wordpress.com/post/andoy51.wordpress.com/45
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
-
+- https://wordpress.com/post/andoy51.wordpress.com/45
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
-
+- https://wordpress.com/post/andoy51.wordpress.com/53
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
 [Penggunaan Developer Tools Pada Web Browser ](https://wordpress.com/post/andoy51.wordpress.com/31)
-## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
-Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
-
-Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsoft Azure](https://azure.microsoft.com) [Google Cloud Platform](https://cloud.google.com) 
-
+## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐ 
+- https://wordpress.com/post/andoy51.wordpress.com/59
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 [wordpress](https://andoy51.wordpress.com/)
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
@@ -93,40 +90,37 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 [Pembuatan game menggunakan netlogo](https://drive.google.com/file/d/1oxFyUO8fyTDlqgPRZM-rZV5uqf-O2LvO/view?usp=drive_link)
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
-
+- https://drive.google.com/file/d/1fMIlakJ0l8eEz7abjAoiXbX8TgtkH-wx/view?usp=sharing
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
-
+- https://wordpress.com/post/andoy51.wordpress.com/65
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
-![text to image](https://github.com/Andimugni27/campus.md/assets/144541746/0c144f25-61ee-455e-b459-563b81327f12)
-
-
+- https://wordpress.com/post/andoy51.wordpress.com/65
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 ![error](https://github.com/Andimugni27/campus.md/assets/144541746/a1ed0b45-ee36-49e1-a4bb-5dff8be2aa0d)
 
-
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
-
+- https://wordpress.com/post/andoy51.wordpress.com/72
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
-
+- https://wordpress.com/post/andoy51.wordpress.com/72
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
-
+- https://wordpress.com/post/andoy51.wordpress.com/75
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 ![kaggle](https://github.com/Andimugni27/campus.md/assets/144541746/313d4d3c-75d3-46bb-bb69-33ef24628a56)
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
-
+- https://wordpress.com/post/andoy51.wordpress.com/82
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
-
+- https://wordpress.com/post/andoy51.wordpress.com/82
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
-
+- https://wordpress.com/post/andoy51.wordpress.com/84
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
-
+- https://wordpress.com/post/andoy51.wordpress.com/89
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
-
+- https://wordpress.com/post/andoy51.wordpress.com/95
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 ![WhatsApp Image 2023-12-26 at 17 45 11](https://github.com/Andimugni27/campus.md/assets/144541746/56447aa4-4733-4a58-9cf8-a836a2790bc7)
 
