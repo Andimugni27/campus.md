@@ -144,3 +144,4 @@ https://wordpress.com/post/andoy51.wordpress.com/103
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 [Saya mengikuti CS50 yang diadakan oleh Harvard University](https://youtu.be/xiyoyyFyWFg)
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
+https://drive.google.com/file/d/1GFdK7k3GPVOdCPgYapHMaNUHPJFJMXtV/view?usp=drive_link
