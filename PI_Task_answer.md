@@ -131,7 +131,7 @@ https://drive.google.com/file/d/1cNAKkRs-ARCW5xvgwBY_AiBfznN7cOcF/view?usp=drive
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 https://drive.google.com/file/d/1cNAKkRs-ARCW5xvgwBY_AiBfznN7cOcF/view?usp=drive_link
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
-
+https://drive.google.com/file/d/1KM8najs9yCRe94ijQaIn0TT_lDo2iaF-/view?usp=drive_link
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
