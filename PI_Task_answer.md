@@ -66,9 +66,7 @@ Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-v
 ![hasilweb](https://github.com/Andimugni27/campus.md/assets/144541746/0991a1bc-ddbb-4510-9f63-8ae189113ca7)
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
-
-Referensi []
-
+[Optimalisasi SEO HTML](https://andoy51.wordpress.com/)
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
