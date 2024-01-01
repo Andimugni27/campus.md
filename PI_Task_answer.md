@@ -86,10 +86,10 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
-
+[Mendemonstrasikan Akses Konten Multimedia](https://drive.google.com/file/d/1ASGKw3wyp35D5G73JR0I5ec3032SXRb-/view?usp=drive_link)
 
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
-
+[Mencoba Edit Konten Multimedi](https://drive.google.com/file/d/1ASGKw3wyp35D5G73JR0I5ec3032SXRb-/view?usp=drive_link)
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
