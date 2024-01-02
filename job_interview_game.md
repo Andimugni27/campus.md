@@ -50,6 +50,6 @@ Game desain:
 ## 5. Demo game dan prinsip-prinsip dasar pemrograman
 [Demo dan pembahasan game](https://drive.google.com/file/d/1A8eCJC1-sq1idyroQgIYOeEoHcvgJQyC/view?usp=drive_link)
 ## 6. Code game
-
+[src game](https://github.com/Andimugni27/campus.md/tree/3a35f1969225828edb40857dd3f0f1943c36456b/game)
 
 
