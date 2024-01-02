@@ -47,13 +47,9 @@ Game desain:
 
 ![structur data](https://github.com/Andimugni27/campus.md/assets/144541746/6d0671f6-303e-49a1-84ce-8725b07a7d70)
 
-## 5. Demo game
-
-bla bla bla
-
+## 5. Demo game dan prinsip-prinsip dasar pemrograman
+[Demo dan pembahasan game](https://drive.google.com/file/d/1A8eCJC1-sq1idyroQgIYOeEoHcvgJQyC/view?usp=drive_link)
 ## 6. Code game
 
-
-## 7. prinsip-prinsip dasar pemrograman
 
 
