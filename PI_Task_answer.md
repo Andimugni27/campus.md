@@ -43,7 +43,8 @@
 [Apa itu HackerRack??](https://www.youtube.com/watch?v=s-cKdSZktjw)
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
-
+[Aplikasi](https://drive.google.com/file/d/1rpG9uyVLl-7yML1f0dJpyHJh2nVJ03Ia/view?usp=drive_link)
+[Game](https://drive.google.com/file/d/1A8eCJC1-sq1idyroQgIYOeEoHcvgJQyC/view?usp=drive_link)
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 ![database2](https://github.com/Andimugni27/campus.md/assets/144541746/8741da0f-24bb-473c-83e0-d0dd8585c943)
 ![database](https://github.com/Andimugni27/campus.md/assets/144541746/e4a87c54-aa00-4764-965b-d047d840f5bc)
